@@ -1,6 +1,9 @@
 # IdeologicalBias
 Notebooks with the code for an agent based model about ideological bias. Each version gets uploaded here before we meet to discuss it and decide on changes.
 
+# Data
+
+The files part_0 - part_4 are the results of a batch run (pickled dataframe cut into smaller chunks to upload here), and used to display the results in a binder notebook.
 
 # Binder
 
