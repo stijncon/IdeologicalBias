@@ -1,5 +1,5 @@
 # IdeologicalBias
-Notebooks with the code for an agent based model about ideological bias. 
+Notebooks with the code for an agent based model about ideological bias. Each version gets uploaded here before we meet to discuss it and decide on changes.
 
 
 # Binder
